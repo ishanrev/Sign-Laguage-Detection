@@ -1,0 +1,4 @@
+libraries required:
+-opencv-python
+-numpy
+-mediapipe
